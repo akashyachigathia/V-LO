@@ -6,9 +6,27 @@ const products = [
     category: "Everyday",
     colour: "Indigo / white",
     hex: "#577080",
-    image: "creation_3775728843",
+    image: "T-shirt & straight-leg denim look.png",
     description:
-      "A white tee and straight-leg denim, styled with white trainers and a tan shoulder bag.",
+      "A white T-shirt paired with straight-leg blue jeans creates an uncomplicated everyday look. White trainers keep the styling casual, while a tan belt and shoulder bag add contrast to the indigo denim.",
+    // Replace null only with confirmed information for this product.
+    specifications: {
+      includedItems: null, // e.g. "Coat only" once confirmed
+      modelHeight: null,
+      modelSize: null,
+      measurementSize: null,
+      sleeveLengthCm: null,
+      shoulderWidthCm: null,
+      backLengthCm: null,
+      length: null,
+      sleeveStyle: null,
+      fit: null,
+      collar: null,
+      composition: null,
+      lining: null,
+      care: null,
+      safety: null,
+    },
   },
   {
     id: "tailoring",
@@ -17,9 +35,27 @@ const products = [
     category: "Tailoring",
     colour: "Sand",
     hex: "#c0ae91",
-    image: "creation_3775735255",
+    image: "Relaxed blazer & trouser look.png",
     description:
-      "A relaxed beige blazer and matching trousers, styled with a white top and brown accessories.",
+      "A relaxed beige blazer and matching trousers create a coordinated tailoring look. A white top keeps the palette light, with brown accessories completing an outfit that moves easily from daytime plans to an evening out.",
+    // Replace null only with confirmed information for this product.
+    specifications: {
+      includedItems: null, // e.g. "Coat only" once confirmed
+      modelHeight: null,
+      modelSize: null,
+      measurementSize: null,
+      sleeveLengthCm: null,
+      shoulderWidthCm: null,
+      backLengthCm: null,
+      length: null,
+      sleeveStyle: null,
+      fit: null,
+      collar: null,
+      composition: null,
+      lining: null,
+      care: null,
+      safety: null,
+    },
   },
   {
     id: "floral",
@@ -28,9 +64,27 @@ const products = [
     category: "Dresses",
     colour: "Ivory floral",
     hex: "#e6e3d5",
-    image: "creation_3775737029",
+    image: "Square-neck floral midi dress.png",
     description:
-      "An ivory floral midi dress with a square neckline. Styled with a straw bag and neutral sandals.",
+      "An ivory midi dress with a delicate blue floral pattern, a square neckline and shoulder straps. The skirt falls below the knee, styled here with a straw bag and neutral sandals for a light summer look.",
+    // Replace null only with confirmed information for this product.
+    specifications: {
+      includedItems: null, // e.g. "Coat only" once confirmed
+      modelHeight: null,
+      modelSize: null,
+      measurementSize: null,
+      sleeveLengthCm: null,
+      shoulderWidthCm: null,
+      backLengthCm: null,
+      length: null,
+      sleeveStyle: null,
+      fit: null,
+      collar: null,
+      composition: null,
+      lining: null,
+      care: null,
+      safety: null,
+    },
   },
   {
     id: "black-dress",
@@ -39,9 +93,27 @@ const products = [
     category: "Dresses",
     colour: "Black",
     hex: "#232323",
-    image: "creation_3775739912",
+    image: "Draped-neck midi dress.png",
     description:
-      "A black midi dress with a softly draped neckline, styled with a compact black bag and heels.",
+      "A black midi dress with narrow straps and a softly draped neckline. The fabric has a subtle sheen, creating a simple evening silhouette finished here with a compact black bag and heels.",
+    // Replace null only with confirmed information for this product.
+    specifications: {
+      includedItems: null, // e.g. "Coat only" once confirmed
+      modelHeight: null,
+      modelSize: null,
+      measurementSize: null,
+      sleeveLengthCm: null,
+      shoulderWidthCm: null,
+      backLengthCm: null,
+      length: null,
+      sleeveStyle: null,
+      fit: null,
+      collar: null,
+      composition: null,
+      lining: null,
+      care: null,
+      safety: null,
+    },
   },
   {
     id: "weekend",
@@ -50,9 +122,27 @@ const products = [
     category: "Everyday",
     colour: "Rose / charcoal",
     hex: "#bd9291",
-    image: "creation_3775745730",
+    image: "Sweatshirt & leggings look.png",
     description:
-      "A soft pink sweatshirt with charcoal leggings and white trainers for an easy casual look.",
+      "A pink sweatshirt paired with charcoal leggings for a relaxed everyday outfit. The loose-looking top contrasts with the close-fitting leggings, while white trainers and a black bag complete the casual styling.",
+    // Replace null only with confirmed information for this product.
+    specifications: {
+      includedItems: null, // e.g. "Coat only" once confirmed
+      modelHeight: null,
+      modelSize: null,
+      measurementSize: null,
+      sleeveLengthCm: null,
+      shoulderWidthCm: null,
+      backLengthCm: null,
+      length: null,
+      sleeveStyle: null,
+      fit: null,
+      collar: null,
+      composition: null,
+      lining: null,
+      care: null,
+      safety: null,
+    },
   },
   {
     id: "coat",
@@ -61,9 +151,27 @@ const products = [
     category: "Tailoring",
     colour: "Camel",
     hex: "#a88460",
-    image: "creation_3775757187",
+    image: "Camel coat & denim look.png",
     description:
-      "A camel coat over a light knit, dark denim and brown boots, finished with a burgundy scarf.",
+      "A camel coat layered over a light-coloured knit and dark blue jeans. A burgundy scarf adds colour around the neckline, while brown boots give the outfit a coordinated winter finish.",
+    // Replace null only with confirmed information for this product.
+    specifications: {
+      includedItems: null, // e.g. "Coat only" once confirmed
+      modelHeight: null,
+      modelSize: null,
+      measurementSize: null,
+      sleeveLengthCm: null,
+      shoulderWidthCm: null,
+      backLengthCm: null,
+      length: null,
+      sleeveStyle: null,
+      fit: null,
+      collar: null,
+      composition: null,
+      lining: null,
+      care: null,
+      safety: null,
+    },
   },
   {
     id: "street",
@@ -72,9 +180,27 @@ const products = [
     category: "Everyday",
     colour: "Black / olive",
     hex: "#747a58",
-    image: "creation_3775763395",
+    image: "Oversized tee & cargo look.png",
     description:
-      "An oversized black tee with olive cargo trousers, a crossbody bag and black trainers.",
+      "An oversized black T-shirt paired with olive cargo trousers for a casual streetwear look. The contrast between the loose top and utility-style trousers is finished with a crossbody bag and dark trainers.",
+    // Replace null only with confirmed information for this product.
+    specifications: {
+      includedItems: null, // e.g. "Coat only" once confirmed
+      modelHeight: null,
+      modelSize: null,
+      measurementSize: null,
+      sleeveLengthCm: null,
+      shoulderWidthCm: null,
+      backLengthCm: null,
+      length: null,
+      sleeveStyle: null,
+      fit: null,
+      collar: null,
+      composition: null,
+      lining: null,
+      care: null,
+      safety: null,
+    },
   },
   {
     id: "sari",
@@ -85,7 +211,25 @@ const products = [
     hex: "#185840",
     image: "creation_3775773551",
     description:
-      "A rich green sari with gold accents and coordinated jewellery for an occasion-ready look.",
+      "An emerald-green sari with gold-toned border detailing and a coordinated blouse. The draped fabric creates a flowing silhouette, styled with jewellery for an occasion look.",
+    // Replace null only with confirmed information for this product.
+    specifications: {
+      includedItems: null, // e.g. "Coat only" once confirmed
+      modelHeight: null,
+      modelSize: null,
+      measurementSize: null,
+      sleeveLengthCm: null,
+      shoulderWidthCm: null,
+      backLengthCm: null,
+      length: null,
+      sleeveStyle: null,
+      fit: null,
+      collar: null,
+      composition: null,
+      lining: null,
+      care: null,
+      safety: null,
+    },
   },
   {
     id: "summer",
@@ -94,37 +238,149 @@ const products = [
     category: "Everyday",
     colour: "White / sand",
     hex: "#d5c9b4",
-    image: "creation_3775776330",
+    image: "Shirt & tailored shorts look.png",
     description:
-      "A white shirt and tailored beige shorts, styled with a woven bag and neutral sandals.",
+      "A white shirt tucked into tailored beige shorts for a simple warm-weather outfit. A brown belt defines the waist, while a woven bag and neutral sandals complement the white and sand palette.",
+    // Replace null only with confirmed information for this product.
+    specifications: {
+      includedItems: null, // e.g. "Coat only" once confirmed
+      modelHeight: null,
+      modelSize: null,
+      measurementSize: null,
+      sleeveLengthCm: null,
+      shoulderWidthCm: null,
+      backLengthCm: null,
+      length: null,
+      sleeveStyle: null,
+      fit: null,
+      collar: null,
+      composition: null,
+      lining: null,
+      care: null,
+      safety: null,
+    },
   },
-   
+
   {
-  id: "burgundy-coat",
-  name: "Burgundy coat & knitted dress look",
-  price: 139,
-  category: "Tailoring",
-  colour: "Burgundy / black",
-  hex: "#682535",
-  image: "large1",
-  featuredOnly: true,
-  description:
-    "A long burgundy coat layered over a black knitted dress, styled with knee-high boots and a black handbag."
-},
-{
-  id: "navy-duffle",
-  name: "Navy duffle coat & knitwear look",
-  price: 129,
-  category: "Tailoring",
-  colour: "Navy / grey",
-  hex: "#202c40",
-  image: "large2",
-  featuredOnly: true,
-  description:
-    "A navy duffle coat layered over a cable-knit jumper, with grey trousers, a checked scarf and brown boots."
-}
-
-
+    id: "burgundy-coat",
+    name: "Burgundy coat & black dress look",
+    price: 139,
+    category: "Tailoring",
+    colour: "Burgundy / black",
+    hex: "#682535",
+    image: "large1.jpg",
+    featuredOnly: true,
+    description:
+      "A long burgundy coat layered over a black dress for a tonal winter look. The open-front styling reveals the darker outfit underneath, with knee-high black boots and a structured handbag completing the silhouette.",
+    // Replace null only with confirmed information for this product.
+    specifications: {
+      includedItems: null, // e.g. "Coat only" once confirmed
+      modelHeight: null,
+      modelSize: null,
+      measurementSize: null,
+      sleeveLengthCm: null,
+      shoulderWidthCm: null,
+      backLengthCm: null,
+      length: null,
+      sleeveStyle: null,
+      fit: null,
+      collar: null,
+      composition: null,
+      lining: null,
+      care: null,
+      safety: null,
+    },
+  },
+  {
+    id: "navy-duffle",
+    name: "Navy duffle coat & knitwear look",
+    price: 129,
+    category: "Tailoring",
+    colour: "Navy / grey",
+    hex: "#202c40",
+    image: "large2.jpg",
+    featuredOnly: true,
+    description:
+      "A navy duffle coat styled with a textured jumper, grey trousers and a checked scarf. The layered look pairs deep navy with soft grey for an understated winter outfit, finished with brown boots.",
+    // Replace null only with confirmed information for this product.
+    specifications: {
+      includedItems: null, // e.g. "Coat only" once confirmed
+      modelHeight: null,
+      modelSize: null,
+      measurementSize: null,
+      sleeveLengthCm: null,
+      shoulderWidthCm: null,
+      backLengthCm: null,
+      length: null,
+      sleeveStyle: null,
+      fit: null,
+      collar: null,
+      composition: null,
+      lining: null,
+      care: null,
+      safety: null,
+    },
+  },
+  {
+    id: "brown-jacket",
+    name: "Brown jacket & trouser look",
+    price: 119,
+    category: "Tailoring",
+    colour: "Brown / cream",
+    hex: "#886447",
+    image: "large3.jpg",
+    featuredOnly: true,
+    description:
+      "A brown jacket layered over a cream top and paired with tan trousers. The combination of warm neutral shades creates a coordinated everyday outfit, finished with dark boots.",
+    // Replace null only with confirmed information for this product.
+    specifications: {
+      includedItems: null, // e.g. "Coat only" once confirmed
+      modelHeight: null,
+      modelSize: null,
+      measurementSize: null,
+      sleeveLengthCm: null,
+      shoulderWidthCm: null,
+      backLengthCm: null,
+      length: null,
+      sleeveStyle: null,
+      fit: null,
+      collar: null,
+      composition: null,
+      lining: null,
+      care: null,
+      safety: null,
+    },
+  },
+  {
+    id: "charcoal-coat",
+    name: "Charcoal coat & denim look",
+    price: 149,
+    category: "Tailoring",
+    colour: "Charcoal / indigo",
+    hex: "#454748",
+    image: "Charcoal.png",
+    featuredOnly: true,
+    description:
+      "A long charcoal coat layered over a cream jumper and blue jeans. A burgundy scarf introduces a warm accent against the darker outerwear, while brown boots complete the winter styling.",
+    // Replace null only with confirmed information for this product.
+    specifications: {
+      includedItems: null, // e.g. "Coat only" once confirmed
+      modelHeight: null,
+      modelSize: null,
+      measurementSize: null,
+      sleeveLengthCm: null,
+      shoulderWidthCm: null,
+      backLengthCm: null,
+      length: null,
+      sleeveStyle: null,
+      fit: null,
+      collar: null,
+      composition: null,
+      lining: null,
+      care: null,
+      safety: null,
+    },
+  },
 ];
 const $ = (s) => document.querySelector(s);
 let department = "Women",
@@ -165,20 +421,22 @@ function toast(t) {
   );
 }
 function render() {
- let list =
-  department === "Women"
-    ? products.filter(
-        (p) =>
-          !p.featuredOnly &&
-          (filter === "All" || p.category === filter)
-      )
-    : [];
+  let list =
+    department === "Women"
+      ? products.filter(
+          (p) =>
+            filter === "All" ||
+            (filter === "Winter"
+              ? p.featuredOnly || p.id === "coat"
+              : p.category === filter),
+        )
+      : [];
   if ($("#sort").value === "low") list.sort((a, b) => a.price - b.price);
   if ($("#sort").value === "high") list.sort((a, b) => b.price - a.price);
   $("#products").innerHTML = list
     .map(
       (p) =>
-        `<article><div class="product-image"><button data-product="${p.id}" aria-label="View ${p.name}"><img src="assets/${p.image}.jpg" alt="${p.name} in ${p.colour}" loading="lazy"></button><button class="save" data-save="${p.id}" aria-label="${saved.includes(p.id) ? "Unsave" : "Save"} ${p.name}" aria-pressed="${saved.includes(p.id)}">${heart}</button></div><div class="product-info"><span class="product-tag">New arrival</span><button data-product="${p.id}">${p.name}</button><span class="product-price">${money(p.price)}</span></div><div class="product-meta"><i class="swatch" style="background:${p.hex}"></i>${p.colour}</div></article>`,
+        `<article><div class="product-image"><button data-product="${p.id}" aria-label="View ${p.name}">${productPhoto(p)}</button><button class="save" data-save="${p.id}" aria-label="${saved.includes(p.id) ? "Unsave" : "Save"} ${p.name}" aria-pressed="${saved.includes(p.id)}">${heart}</button></div><div class="product-info"><span class="product-tag">New arrival</span><button data-product="${p.id}">${p.name}</button><span class="product-price">${money(p.price)}</span></div><div class="product-meta"><i class="swatch" style="background:${p.hex}"></i>${p.colour}</div></article>`,
     )
     .join("");
   $("#empty").hidden = !!list.length;
@@ -195,10 +453,10 @@ function render() {
     b.classList.toggle("selected", b.dataset.filter === filter);
     b.setAttribute("aria-pressed", b.dataset.filter === filter);
   });
+  renderFeatured();
   persist();
 }
 function open(title, html) {
-  video.pause();
   $("#drawerTitle").textContent = title;
   $("#drawerBody").innerHTML = html;
   if (!$("#drawer").open) $("#drawer").showModal();
@@ -207,16 +465,57 @@ function rows(list, mode) {
   return list
     .map((x, i) => {
       const p = products.find((p) => p.id === (x.id || x));
-      return `<div class="drawer-row"><img src="assets/${p.image}.jpg" alt="${p.name}"><div><h3>${p.name}</h3><p>${money(p.price)}${x.size ? " · Size " + x.size : ""}</p><button data-product="${p.id}">View piece</button></div><button ${mode === "bag" ? `data-remove="${i}"` : `data-save="${p.id}"`}>Remove</button></div>`;
+      return `<div class="drawer-row">${productPhoto(p)}<div><h3>${p.name}</h3><p>${money(p.price)}${x.size ? " · Size " + x.size : ""}</p><button data-product="${p.id}">View piece</button></div><button ${mode === "bag" ? `data-remove="${i}"` : `data-save="${p.id}"`}>Remove</button></div>`;
     })
     .join("");
 }
+
+// These native accordions work with the existing .product-details CSS.
+function escapeProductText(value) {
+  return String(value).replace(/[&<>"']/g, (character) => ({
+    "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"
+  })[character]);
+}
+
+function productInformation(p) {
+  const s = p.specifications || {};
+  const placeholder = "Not yet confirmed (placeholder)";
+  const value = (v) => v === null || v === undefined || v === "" ? placeholder : v;
+  const measurement = (v) => {
+    if (v === null || v === undefined || v === "") return placeholder;
+    const size = s.measurementSize ? `Size ${s.measurementSize}` : "size not yet confirmed";
+    return `${v} cm (${size})`;
+  };
+  const rows = (items) => `<dl>${items.map(([label, text]) =>
+    `<dt><strong>${escapeProductText(label)}</strong></dt><dd>${escapeProductText(value(text))}</dd>`
+  ).join("")}</dl>`;
+  const section = (title, content) => `<details class="product-details"><summary>${title}</summary>${content}</details>`;
+  return [
+    section("Product details", rows([
+      ["Collection", p.category], ["Colour", p.colour],
+      ["What's included", s.includedItems], ["Length", s.length],
+      ["Sleeve length", s.sleeveStyle], ["Collar", s.collar]
+    ])),
+    section("Size & fit", rows([
+      ["Model height", s.modelHeight], ["Model wears", s.modelSize],
+      ["Fit", s.fit], ["Measurement size", s.measurementSize],
+      ["Sleeve measurement", measurement(s.sleeveLengthCm)],
+      ["Shoulder width", measurement(s.shoulderWidthCm)],
+      ["Back length", measurement(s.backLengthCm)]
+    ]) + '<p class="drawer-note">Measurements are not available yet. The size options in this concept are illustrative.</p>'),
+    section("Material & care", rows([
+      ["Composition", s.composition], ["Lining", s.lining], ["Care instructions", s.care]
+    ])),
+    section("Product safety", rows([["Supplier safety information", s.safety]]))
+  ].join("");
+}
+
 function detail(id) {
   const p = products.find((p) => p.id === id);
   if (!p) return;
   open(
     "A closer look",
-    `<div class="detail"><img class="drawer-image" src="assets/${p.image}.jpg" alt="${p.name}"><h3>${p.name}</h3><p class="detail-price">${money(p.price)}</p><div class="detail-colour"><i class="swatch" style="background:${p.hex}" aria-hidden="true"></i><span>Colour: ${p.colour}</span></div><p>${p.description}</p><p id="sizeLabel">Select size</p><div class="sizes" role="group" aria-labelledby="sizeLabel">${["XS", "S", "M", "L", "XL"].map((s) => `<button data-size="${s}" aria-pressed="false">${s}</button>`).join("")}</div><button class="button" id="addBag">Add to bag</button><details class="product-details"><summary>Product & styling details</summary><p>Part of the VÉLO ${p.category.toLowerCase()} edit. The photograph shows the styled look; accessories are styling suggestions.</p></details><p class="drawer-note">Illustrative price for this concept. No purchases or payments are taken.</p></div>`,
+    `<div class="detail">${productPhoto(p, "drawer-image")}<h3>${p.name}</h3><p class="detail-price">${money(p.price)}</p><div class="detail-colour"><i class="swatch" style="background:${p.hex}" aria-hidden="true"></i><span>Colour: ${p.colour}</span></div><p>${p.description}</p><p id="sizeLabel">Select size</p><div class="sizes" role="group" aria-labelledby="sizeLabel">${["XS", "S", "M", "L", "XL"].map((s) => `<button data-size="${s}" aria-pressed="false">${s}</button>`).join("")}</div><button class="button" id="addBag">Add to bag</button>${productInformation(p)}<p class="drawer-note">Illustrative price for this concept. No purchases or payments are taken.</p></div>`,
   );
   let size;
   document.querySelectorAll("[data-size]").forEach(
@@ -264,6 +563,7 @@ document.addEventListener("click", (e) => {
     department = b.dataset.category;
     filter = "All";
     render();
+    $("#collection").hidden = false;
     $("#collection").scrollIntoView({ behavior: "smooth" });
   }
   if (b.dataset.filter) {
@@ -291,25 +591,23 @@ document.addEventListener("click", (e) => {
     department = "Women";
     filter = "All";
     render();
+    $("#collection").hidden = false;
     $("#collection").scrollIntoView();
   }
   if (b.dataset.look) {
-  const image = b.querySelector(".look-image img");
-  const heading = b.querySelector(".look-caption h3");
+    const image = b.querySelector(".look-image img");
+    const heading = b.querySelector(".look-caption h3");
 
-  if (image) {
-    const preview = document.createElement("img");
+    if (image) {
+      const preview = document.createElement("img");
 
-    preview.src = image.currentSrc || image.src;
-    preview.alt = image.alt;
-    preview.className = "look-preview";
+      preview.src = image.currentSrc || image.src;
+      preview.alt = image.alt;
+      preview.className = "look-preview";
 
-    open(
-      heading ? heading.textContent : "A closer look",
-      preview.outerHTML
-    );
+      open(heading ? heading.textContent : "A closer look", preview.outerHTML);
+    }
   }
-}
   if (b.dataset.action === "bag") showBag();
   if (b.dataset.action === "saved") showSaved();
   if (b.dataset.action === "account")
@@ -333,7 +631,7 @@ document.addEventListener("click", (e) => {
         found
           .map(
             (p) =>
-              `<div class="drawer-row"><img src="assets/${p.image}.jpg" alt="${p.name}"><div><h3>${p.name}</h3><p>${money(p.price)}</p><button data-product="${p.id}">View piece ↗</button></div></div>`,
+              `<div class="drawer-row">${productPhoto(p)}<div><h3>${p.name}</h3><p>${money(p.price)}</p><button data-product="${p.id}">View piece ↗</button></div></div>`,
           )
           .join("") ||
         '<p class="drawer-note">No matching pieces. Try “floral”, “denim” or “tailoring”.</p>';
@@ -352,69 +650,69 @@ $("#drawer").addEventListener("click", (e) => {
   )
     $("#drawer").close();
 });
-const video = $("#heroVideo"),
-  play = $("#playButton"),
-  reduced = matchMedia("(prefers-reduced-motion: reduce)");
-let userPaused = reduced.matches;
-function syncPlay() {
-  play.textContent = video.paused ? "▶" : "Ⅱ";
-  play.setAttribute(
-    "aria-label",
-    video.paused ? "Play fashion video" : "Pause fashion video",
-  );
-}
-play.onclick = () => {
-  if (video.paused) {
-    userPaused = false;
-    video.play().catch(() => toast("Tap play to start the video"));
-  } else {
-    userPaused = true;
-    video.pause();
-  }
-};
-video.onplay = syncPlay;
-video.onpause = syncPlay;
-video.onended = () => {
-  userPaused = true;
-  syncPlay();
-  play.setAttribute("aria-label", "Replay fashion video");
-};
-$("#lookButton").onclick = () => {
-  detail(currentLook());
-};
-function currentLook() {
-  return video.currentTime < 7
-    ? "floral"
-    : video.currentTime < 13
-      ? "denim"
-      : "tailoring";
-}
-video.addEventListener("timeupdate", () => {
-  $("#lookLabel").textContent =
-    video.currentTime < 7
-      ? "01 / THE FLORAL MIDI"
-      : video.currentTime < 13
-        ? "02 / OFF-DUTY DENIM"
-        : "03 / RELAXED TAILORING";
-});
-const observer = new IntersectionObserver(
-  (entries) => {
-    if (!entries[0].isIntersecting) video.pause();
-    else if (!userPaused) video.play().catch(() => {});
-  },
-  { threshold: 0.2 },
-);
-observer.observe(video);
-reduced.addEventListener("change", () => {
-  if (reduced.matches) {
-    userPaused = true;
-    video.pause();
-  }
-});
-document.addEventListener("visibilitychange", () => {
-  if (document.hidden) video.pause();
-});
-$("#drawer").addEventListener("close", () => {
-  if (!userPaused && !document.hidden) video.play().catch(() => {});
-});
 render();
+
+function productPhoto(p, className = "") {
+  const filename = /\.(jpg|jpeg|png|webp)$/i.test(p.image)
+    ? p.image
+    : `${p.image}.jpg`;
+
+  return `
+    <img
+      class="${className}"
+      src="assets/${filename}"
+      alt="${p.name}"
+      loading="lazy"
+    >
+  `;
+}
+
+function renderFeatured() {
+  $("#featured").innerHTML = products
+    .filter((p) => p.featuredOnly)
+    .map(
+      (p) =>
+        `<article class="featured-card"><button class="photo-button" data-product="${p.id}" aria-label="View ${p.name}">${productPhoto(p)}</button><div class="featured-title"><button data-product="${p.id}">${p.name}</button><span>${money(p.price)}</span></div><div class="featured-bottom"><span>${p.colour}</span><button class="save" data-save="${p.id}" aria-label="${saved.includes(p.id) ? "Remove from" : "Add to"} wishlist: ${p.name}" aria-pressed="${saved.includes(p.id)}">${heart}</button></div></article>`,
+    )
+    .join("");
+}
+document.addEventListener("click", (e) => {
+  const b = e.target.closest("button");
+  if (!b) return;
+  if (b.dataset.shop) {
+    department = "Women";
+    filter = b.dataset.shop;
+    render();
+    $("#collection").hidden = false;
+    $("#collection").scrollIntoView({ behavior: "smooth" });
+  }
+  if (b.dataset.info) {
+    const content = {
+      Contact:
+        "VÉLO is a portfolio store concept. Customer support is not connected.",
+      Delivery:
+        "This is a demonstration store. No orders are shipped and no delivery fees are charged.",
+      Returns:
+        "Purchases are not enabled in this concept, so no returns are processed.",
+      "Size guide":
+        "XS, S, M, L and XL are demonstration options. Product-specific measurements should be added before this store accepts orders.",
+      "Our story":
+        "VÉLO explores considered clothing and easy everyday dressing through a clean, accessible shopping experience.",
+      Materials:
+        "Material descriptions in this concept follow the supplied reference. Confirm composition and care instructions with the supplier before selling.",
+    };
+    open(b.dataset.info, `<p>${content[b.dataset.info]}</p>`);
+  }
+});
+$("#newsletter").addEventListener("submit", (e) => {
+  e.preventDefault();
+  $("#newsletterStatus").textContent =
+    "Thanks for your interest. Newsletter signup is not connected in this demo; your email has not been submitted.";
+});
+$("#drawer").addEventListener(
+  "close",
+  () => (document.body.style.overflow = ""),
+);
+$("#drawer").addEventListener("toggle", () => {
+  document.body.style.overflow = $("#drawer").open ? "hidden" : "";
+});
