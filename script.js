@@ -1,14 +1,14 @@
 const products = [
   {
     id: "denim",
-    name: "T-shirt & straight-leg denim look",
+    name: "Pearl-Embellished Oversized Jumper — Black",
     price: 65,
     category: "Everyday",
-    colour: "Indigo / white",
-    hex: "#577080",
-    image: "T-shirt & straight-leg denim look.png",
+    colour: "Black / Sand",
+    hex: "#1d1d1d",
+    image: "Black pearl sweater winter fashion portrait.png",
     description:
-      "A white T-shirt paired with straight-leg blue jeans creates an uncomplicated everyday look. White trainers keep the styling casual, while a tan belt and shoulder bag add contrast to the indigo denim.",
+      "Oversized jumper in a soft, brushed knit with cream pearl-style beads scattered across the body and sleeves. Round, rib-trimmed neckline, dropped shoulders and long sleeves. Ribbing at the cuffs and hem. Styled with ivory wide-leg trousers and black ankle boots.",
     // Replace null only with confirmed information for this product.
     specifications: {
       includedItems: null, // e.g. "Coat only" once confirmed
@@ -59,12 +59,12 @@ const products = [
   },
   {
     id: "floral",
-    name: "Square-neck floral midi dress",
+    name: "Oversized High-Neck Jumper",
     price: 59,
     category: "Dresses",
-    colour: "Ivory floral",
-    hex: "#e6e3d5",
-    image: "Square-neck floral midi dress.png",
+    colour: "Olive Green",
+    hex: "#8f8d07",
+    image: "Olive sweater, tailored trousers.png",
     description:
       "An ivory midi dress with a delicate blue floral pattern, a square neckline and shoulder straps. The skirt falls below the knee, styled here with a straw bag and neutral sandals for a light summer look.",
     // Replace null only with confirmed information for this product.
@@ -88,14 +88,14 @@ const products = [
   },
   {
     id: "black-dress",
-    name: "Draped-neck midi dress",
+    name: "Long Tailored Coat",
     price: 79,
     category: "Dresses",
-    colour: "Black",
-    hex: "#232323",
-    image: "Draped-neck midi dress.png",
+    colour: "Camel",
+    hex: "#c49703",
+    image: "Camel layers in soft studio light.png",
     description:
-      "A black midi dress with narrow straps and a softly draped neckline. The fabric has a subtle sheen, creating a simple evening silhouette finished here with a compact black bag and heels.",
+      "Long camel coat with notched lapels, long sleeves and side pockets. An open front reveals an ivory cable-knit roll-neck jumper underneath. Styled with dark indigo jeans and brown Chelsea boots.",
     // Replace null only with confirmed information for this product.
     specifications: {
       includedItems: null, // e.g. "Coat only" once confirmed
@@ -175,14 +175,14 @@ const products = [
   },
   {
     id: "street",
-    name: "Oversized tee & cargo look",
+    name: "Fair Isle Knit Jumper",
     price: 75,
     category: "Everyday",
-    colour: "Black / olive",
+    colour: "Beige, Black & Cream",
     hex: "#747a58",
-    image: "Oversized tee & cargo look.png",
+    image: "Beige Fair Isle Knitwear Look.png",
     description:
-      "An oversized black T-shirt paired with olive cargo trousers for a casual streetwear look. The contrast between the loose top and utility-style trousers is finished with a crossbody bag and dark trainers.",
+      "Relaxed-fit jumper in a brushed knit with geometric patterns across the shoulders, chest and lower sleeves. Round, rib-trimmed neckline, long sleeves and ribbing at the cuffs and hem. Styled with ivory corduroy trousers and tan ankle boots.",
     // Replace null only with confirmed information for this product.
     specifications: {
       includedItems: null, // e.g. "Coat only" once confirmed
@@ -204,14 +204,14 @@ const products = [
   },
   {
     id: "sari",
-    name: "Emerald sari look",
+    name: "Double-Breasted Peacoat",
     price: 119,
     category: "Occasion",
-    colour: "Emerald",
-    hex: "#185840",
-    image: "creation_3775773551",
+    colour: "Charcoal Grey",
+    hex: "#323333",
+    image: "Burgundy Knit Winter Studio Look.png",
     description:
-      "An emerald-green sari with gold-toned border detailing and a coordinated blouse. The draped fabric creates a flowing silhouette, styled with jewellery for an occasion look.",
+      "Short charcoal-grey coat with wide notched lapels, a double-breasted button front and button-tab cuffs. Layered over a burgundy rib-knit roll-neck jumper. Styled with a grey checked midi skirt, opaque black tights and black knee-high boots.",
     // Replace null only with confirmed information for this product.
     specifications: {
       includedItems: null, // e.g. "Coat only" once confirmed
@@ -233,14 +233,14 @@ const products = [
   },
   {
     id: "summer",
-    name: "Shirt & tailored shorts look",
+    name: "Zip-Through Teddy Fleece Jacket",
     price: 79,
     category: "Everyday",
-    colour: "White / sand",
+    colour: "Taupe",
     hex: "#d5c9b4",
-    image: "Shirt & tailored shorts look.png",
+    image: "Taupe teddy jacket studio fashion look.png",
     description:
-      "A white shirt tucked into tailored beige shorts for a simple warm-weather outfit. A brown belt defines the waist, while a woven bag and neutral sandals complement the white and sand palette.",
+      "Relaxed-fit jacket in textured teddy fleece with a high stand collar and tonal front zip. Long sleeves, two large front patch pockets and a straight hem. Styled with black straight-leg jeans and dark brown chunky Chelsea boots.",
     // Replace null only with confirmed information for this product.
     specifications: {
       includedItems: null, // e.g. "Coat only" once confirmed
